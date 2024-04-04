@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MathisApp.MainPage">
+
+
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Mon titre" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="40"  Padding="30,0,0,0"/>
+            <Label Text="Sous-titre" FontSize="20" Padding="40,20,0,0"/>
+            <HorizontalStackLayout HorizontalOptions="Center"
+                Padding="20,20"
+                Spacing="25">
+                <Image
+                    Source="coca.png"
+                    HeightRequest="185"
+                    Aspect="AspectFit"
+                    SemanticProperties.Description="dot net bot in a race car number eight" />
+                <Image
+                    Source="coca.png"
+                    HeightRequest="185"
+                    Aspect="AspectFit"
+                    SemanticProperties.Description="dot net bot in a race car number eight" />
+            </HorizontalStackLayout>
+            <Button Text="Animez un Gif" WidthRequest="180" HeightRequest="50" Clicked="gifButton" />
+            <StackLayout Padding="0,10,0,0">
+                <Button x:Name="themeModeButton" Text="Activer/Désactiver le mode sombre" WidthRequest="290" HeightRequest="40"  Clicked="OnDarkModeButtonClicked" />
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,53 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MathisApp
+build_property.ProjectDir = C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Administrateur/Desktop/Cours/BUT INFO/Semestre 4/R4.11 - Dev mobile/projet solo/MathisApp/MathisApp/MathisApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathisApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Administrateur/Desktop/Cours/BUT INFO/Semestre 4/R4.11 - Dev mobile/projet solo/MathisApp/MathisApp/MathisApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathisApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Administrateur/Desktop/Cours/BUT INFO/Semestre 4/R4.11 - Dev mobile/projet solo/MathisApp/MathisApp/MathisApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathisApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Administrateur/Desktop/Cours/BUT INFO/Semestre 4/R4.11 - Dev mobile/projet solo/MathisApp/MathisApp/MathisApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathisApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Administrateur/Desktop/Cours/BUT INFO/Semestre 4/R4.11 - Dev mobile/projet solo/MathisApp/MathisApp/MathisApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathisApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Administrateur/Desktop/Cours/BUT INFO/Semestre 4/R4.11 - Dev mobile/projet solo/MathisApp/MathisApp/MathisApp/SecondPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathisApp.SecondPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SecondPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SecondPage.xaml
