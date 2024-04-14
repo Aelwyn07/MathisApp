@@ -131,5 +131,5 @@ C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\pro
 C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coca.scale-100.png
 C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\test.scale-100.png
-C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\uwu.scale-100.jpg
 C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bird.scale-100.gif
+C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MathisApp.sourcelink.json

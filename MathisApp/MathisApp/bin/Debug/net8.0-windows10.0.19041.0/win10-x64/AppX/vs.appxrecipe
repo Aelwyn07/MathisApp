@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-26T09:22:24.321</Modified>
+      <Modified>2024-04-14T21:02:44.097</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-03-26T09:22:24.016</Modified>
+      <Modified>2024-04-14T21:02:12.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MathisApp.runtimeconfig.json">
       <PackagePath>MathisApp.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MathisApp.dll">
       <PackagePath>MathisApp.dll</PackagePath>
-      <Modified>2024-03-26T09:22:21.084</Modified>
+      <Modified>2024-04-14T21:02:09.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MathisApp.exe</PackagePath>
-      <Modified>2024-03-26T09:22:21.185</Modified>
+      <Modified>2024-04-14T21:02:09.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -91,31 +91,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-03-25T20:38:22.465</Modified>
+      <Modified>2024-04-14T20:39:33.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-03-25T20:38:22.490</Modified>
+      <Modified>2024-04-14T20:39:33.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-03-25T20:38:22.513</Modified>
+      <Modified>2024-04-14T20:39:34.058</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-03-25T20:38:22.549</Modified>
+      <Modified>2024-04-14T20:39:34.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-03-25T20:38:22.680</Modified>
+      <Modified>2024-04-14T20:39:34.516</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\test.scale-100.png">
       <PackagePath>test.scale-100.png</PackagePath>
       <Modified>2024-03-25T07:55:39.774</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\uwu.scale-100.jpg">
-      <PackagePath>uwu.scale-100.jpg</PackagePath>
-      <Modified>2024-03-25T12:17:04.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MathisApp.deps.json">
       <PackagePath>MathisApp.deps.json</PackagePath>

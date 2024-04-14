@@ -85,9 +85,6 @@
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\test.scale-100.png">
       <PackagePath>test.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\uwu.scale-100.jpg">
-      <PackagePath>uwu.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrateur\Desktop\Cours\BUT INFO\Semestre 4\R4.11 - Dev mobile\projet solo\MathisApp\MathisApp\MathisApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MathisApp.deps.json">
       <PackagePath>MathisApp.deps.json</PackagePath>
     </AppxPackagedFile>

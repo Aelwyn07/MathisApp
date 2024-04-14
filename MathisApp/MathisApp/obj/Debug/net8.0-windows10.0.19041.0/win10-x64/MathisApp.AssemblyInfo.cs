@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathisApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+055a91320152619de544dd8ef89bd7025da632a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathisApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathisApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
